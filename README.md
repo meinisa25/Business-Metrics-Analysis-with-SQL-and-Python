@@ -26,7 +26,7 @@ The analysis is based on multiple relational tables from the private database:
 ---
 
 ## 🧑‍💻 SQL Queries
-The analysis includes **SQL queries**, each joining at least two tables, such as:
+The analysis, each joining at least two tables, such as:
 - Active users by month  
 - Premium plan adoption over time  
 - Average clips per user by plan type  
